@@ -77,7 +77,7 @@ const FirstScreen = ({ navigation }: IProps) => {
       transform: [{ scale: 0.5 }],
     },
     25: {
-      originX: width / 2 - 40,
+      originX: width / 2 - 38,
       originY: height / 3,
       opacity: 1,
       transform: [{ scale: 1 }],
@@ -94,7 +94,7 @@ const FirstScreen = ({ navigation }: IProps) => {
       transform: [{ scale: 0 }],
     },
     25: {
-      originX: width / 2 - 25,
+      originX: width / 2 - 28,
       originY: height / 3 + 25,
       opacity: 1,
       transform: [{ scale: 1 }],
