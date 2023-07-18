@@ -127,10 +127,10 @@ const FirstScreen = ({ navigation }: IProps) => {
           <AnimatedLogo height={LOGO_HEIGHT} width={LOGO_WIDTH} />
         </Animated.View>
         <Animated.Text entering={enteringTitleZOOM} style={styles.text}>
-          ZOOM
+          TICK
         </Animated.Text>
         <Animated.Text entering={enteringTitleTAN} style={styles.text}>
-          TAN
+          TAC
         </Animated.Text>
       </Animated.View>
     </View>
